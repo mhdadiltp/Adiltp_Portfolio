@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="dr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f232b"/>
+      <stop offset="100%" stop-color="#0a0c10"/>
+    </linearGradient>
+    <linearGradient id="dr-red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4b4b"/>
+      <stop offset="100%" stop-color="#c81e28"/>
+    </linearGradient>
+    <linearGradient id="dr-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e676"/>
+      <stop offset="100%" stop-color="#00a844"/>
+    </linearGradient>
+    <linearGradient id="dr-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2979ff"/>
+      <stop offset="100%" stop-color="#1565c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#dr-bg)"/>
+  <rect x="1" y="1" width="46" height="46" rx="9" fill="none" stroke="#2d333f" stroke-width="1.5"/>
+  <g transform="translate(24, 24)">
+    <path d="M -2,-3 C -2,-13 7,-16 11,-11 C 15,-6 8,1 2,0 Z" fill="url(#dr-red)"/>
+    <path d="M 1,1 C 9,6 14,15 8,17 C 2,19 -5,11 -2,4 Z" fill="url(#dr-blue)"/>
+    <path d="M -1,2 C -8,5 -17,-1 -13,-7 C -9,-13 0,-8 -1,-1 Z" fill="url(#dr-green)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#ffffff" opacity="0.9"/>
+  </g>
+</svg>

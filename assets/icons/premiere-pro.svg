@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#00005b"/>
+  <rect x="1" y="1" width="46" height="46" rx="9" fill="none" stroke="#9999ff" stroke-width="2"/>
+  <text x="50%" y="54%" font-family="'Inter', -apple-system, sans-serif" font-weight="800" font-size="22" fill="#9999ff" dominant-baseline="middle" text-anchor="middle">Pr</text>
+</svg>

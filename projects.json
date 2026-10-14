@@ -1,0 +1,1031 @@
+{
+  "sections": [
+    {
+      "id": "reels-shorts",
+      "number": "01",
+      "title": "REELS & SHORTS",
+      "subtitle": "Short-form content designed to capture attention.",
+      "type": "video",
+      "slotCount": 8,
+      "folder": "assets/projects/reels-shorts/",
+      "projects": [
+        {
+          "id": "reels-1",
+          "title": "Arjun Ashokan // Celebrity Feature Reel",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-1.jpg",
+          "video": "assets/projects/reels-shorts/reel-1.mp4",
+          "desc": "High-retention vertical reel cut featuring kinetic beat sync, typography overlays, and color grade.",
+          "client": "Arjun Ashokan",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "Premiere Pro",
+            "Viral Edit"
+          ]
+        },
+        {
+          "id": "reels-2",
+          "title": "Car Delivery // Luxury Delivery Reel",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-2.jpg",
+          "video": "assets/projects/reels-shorts/reel-2.mp4",
+          "desc": "Cinematic automotive delivery short with speed ramps, sound design, and reflective light flares.",
+          "client": "Auto Luxe",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Sound Foley"
+          ]
+        },
+        {
+          "id": "reels-3",
+          "title": "G Wagon // Mercedes AMG Viral Short",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-3.jpg",
+          "video": "assets/projects/reels-shorts/reel-3.mp4",
+          "desc": "Fast-paced luxury SUV showcase with exhaust audio sync and kinetic whip cuts.",
+          "client": "Luxury Motors",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "Premiere Pro",
+            "Speed Ramps"
+          ]
+        },
+        {
+          "id": "reels-4",
+          "title": "Niksha Gold // Fine Jewellery Reel",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-4.jpg",
+          "video": "assets/projects/reels-shorts/reel-4.mp4",
+          "desc": "High-end gold jewellery promo with elegant sparkle light sweeps, micro-details, and smooth pans.",
+          "client": "Niksha Gold",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Commercial"
+          ]
+        },
+        {
+          "id": "reels-5",
+          "title": "Nivin Pauly // Star Presence Reel",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-5.jpg",
+          "video": "assets/projects/reels-shorts/reel-5.mp4",
+          "desc": "Celebrity stage appearance reel with crowd ambiance foley, bass drops, and sharp transitions.",
+          "client": "Celebrity Media",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "Premiere Pro",
+            "Pacing"
+          ]
+        },
+        {
+          "id": "reels-6",
+          "title": "Sunny // Lifestyle Portrait Short",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-6.jpg",
+          "video": "assets/projects/reels-shorts/reel-6.mov",
+          "desc": "Vibrant outdoor lifestyle reel with golden sunlight color grade and modern beat timing.",
+          "client": "Personal Brand",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Color Grade",
+            "Lifestyle"
+          ]
+        },
+        {
+          "id": "reels-7",
+          "title": "TBC // Commercial Teaser Short",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-7.jpg",
+          "video": "assets/projects/reels-shorts/reel-7.mov",
+          "desc": "Brand awareness vertical short with punchy typographic cues, sound impact, and sleek framing.",
+          "client": "TBC Studio",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "After Effects",
+            "Branding"
+          ]
+        },
+        {
+          "id": "reels-8",
+          "title": "Thamanna // Red Carpet Spotlight Short",
+          "category": "REELS & SHORTS",
+          "thumbnail": "assets/projects/reels-shorts/thumb-8.jpg",
+          "video": "assets/projects/reels-shorts/reel-8.mp4",
+          "desc": "Dynamic spotlight reel capturing flash photography rhythms, slow zooms, and high elegance.",
+          "client": "Celebrity Spotlight",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Spotlight"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cinematic",
+      "number": "02",
+      "title": "CINEMATIC",
+      "subtitle": "Visual storytelling through cinematic edits.",
+      "type": "video",
+      "slotCount": 5,
+      "folder": "assets/projects/cinematic/",
+      "projects": [
+        {
+          "id": "cinematic-1",
+          "title": "Mahee // Narrative Cinematic Visual 01",
+          "category": "CINEMATIC",
+          "thumbnail": "assets/projects/cinematic/thumb-1.jpg",
+          "video": "assets/projects/cinematic/cinematic-1.mp4",
+          "desc": "High-contrast anamorphic film look exploring cinematic textures, dramatic lighting, and deep color science.",
+          "client": "Mahee Productions",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "DaVinci Resolve",
+            "Premiere Pro",
+            "Color Grading"
+          ]
+        },
+        {
+          "id": "cinematic-2",
+          "title": "Maheee Full // Extended Director Cut 02",
+          "category": "CINEMATIC",
+          "thumbnail": "assets/projects/cinematic/thumb-2.jpg",
+          "video": "assets/projects/cinematic/cinematic-2.mp4",
+          "desc": "Extended 4K director cut featuring atmospheric soundscape design, emotive pacing, and evocative lighting.",
+          "client": "Mahee Productions",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "DaVinci Resolve",
+            "Audition",
+            "Director Cut"
+          ]
+        },
+        {
+          "id": "cinematic-3",
+          "title": "Meralda Kochi // Coastal Heritage Cut 01",
+          "category": "CINEMATIC",
+          "thumbnail": "assets/projects/cinematic/thumb-3.jpg",
+          "video": "assets/projects/cinematic/cinematic-3.mp4",
+          "desc": "Heritage travel and lifestyle film highlighting authentic textures, golden hour sunlight, and rhythm.",
+          "client": "Meralda Kochi",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Cinematic"
+          ]
+        },
+        {
+          "id": "cinematic-4",
+          "title": "Meralda Kochi // Coastal Heritage Cut 02",
+          "category": "CINEMATIC",
+          "thumbnail": "assets/projects/cinematic/thumb-4.jpg",
+          "video": "assets/projects/cinematic/cinematic-4.mp4",
+          "desc": "Sensory visual story capturing local traditions, architecture, and evocative slow-motion details.",
+          "client": "Meralda Kochi",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "DaVinci Resolve",
+            "Premiere Pro",
+            "Slow Motion"
+          ]
+        },
+        {
+          "id": "cinematic-5",
+          "title": "Payyoli // Culinary Visual Story",
+          "category": "CINEMATIC",
+          "thumbnail": "assets/projects/cinematic/thumb-5.jpg",
+          "video": "assets/projects/cinematic/cinematic-5.m4v",
+          "desc": "Cinematic food cinematography film with sizzling audio foley, macro spice details, and warm grading.",
+          "client": "Payyoli Culinary",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Macro Film"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wedding",
+      "number": "03",
+      "title": "WEDDING",
+      "subtitle": "Timeless memories, beautifully edited.",
+      "type": "video",
+      "slotCount": 3,
+      "folder": "assets/projects/wedding/",
+      "projects": [
+        {
+          "id": "wedding-1",
+          "title": "Hayyath // Sacred Union Highlights",
+          "category": "WEDDING",
+          "thumbnail": "assets/projects/wedding/thumb-1.jpg",
+          "video": "assets/projects/wedding/wedding-1.mp4",
+          "desc": "Emotional wedding teaser film capturing heartfelt vows, family laughter, and elegant bridal portraits.",
+          "client": "Hayyath & Family",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Teaser Film"
+          ]
+        },
+        {
+          "id": "wedding-2",
+          "title": "Taj Makkaraparamb // Royal Celebration Film",
+          "category": "WEDDING",
+          "thumbnail": "assets/projects/wedding/thumb-2.jpg",
+          "video": "assets/projects/wedding/wedding-2.mov",
+          "desc": "Grand celebration film featuring majestic ballroom lighting, drone aerial sweeps, and orchestral music.",
+          "client": "Taj Makkaraparamb",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "DaVinci Resolve",
+            "Premiere Pro",
+            "Grand Celebration"
+          ]
+        },
+        {
+          "id": "wedding-3",
+          "title": "Fidha & Nabeel // Eternal Wedding Film",
+          "category": "WEDDING",
+          "thumbnail": "assets/projects/wedding/thumb-3.jpg",
+          "video": "assets/projects/wedding/wedding-3.mp4",
+          "desc": "Full cinematic highlight reel balancing candid romance, slow-motion glances, and golden hour palette.",
+          "client": "Fidha & Nabeel",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "Premiere Pro",
+            "Audition",
+            "Highlight Reel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fast-cuts",
+      "number": "04",
+      "title": "FAST CUTS",
+      "subtitle": "Sharp transitions. Rhythm. Impact.",
+      "type": "video",
+      "slotCount": 6,
+      "folder": "assets/projects/fast-cuts/",
+      "projects": [
+        {
+          "id": "fastcut-1",
+          "title": "House Warming // Kinetic Architectural Edit",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-1.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-1.mp4",
+          "desc": "High-tempo architectural celebration film with whip pans, speed ramps, and energetic beat mapping.",
+          "client": "Private Residence",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Speed Ramps"
+          ]
+        },
+        {
+          "id": "fastcut-2",
+          "title": "Maddy Verse // Speed Ramp Kinetic Cut",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-2.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-2.mp4",
+          "desc": "Fast-paced kinetic edit with match cuts, directional zooms, and punchy bass drops.",
+          "client": "Maddy Verse",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "Match Cuts"
+          ]
+        },
+        {
+          "id": "fastcut-3",
+          "title": "Mahee // High-Tempo Rhythm Edit",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-3.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-3.mp4",
+          "desc": "Aggressive rhythm cut synchronized down to individual audio transients for maximum impact.",
+          "client": "Mahee Productions",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Audio Sync"
+          ]
+        },
+        {
+          "id": "fastcut-4",
+          "title": "Orixa Athletic Club // Adrenaline Cut",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-4.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-4.mp4",
+          "desc": "Adrenaline-fueled training promo with split-second match cuts, punch zooms, and heavy bass beat sync.",
+          "client": "Orixa Athletics",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Fitness Cut"
+          ]
+        },
+        {
+          "id": "fastcut-5",
+          "title": "Pitlane Automotive // Precision Detailing Spot",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-5.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-5.mp4",
+          "desc": "High-energy automotive detailing promo featuring spray droplet cuts, polisher audio, and fast whip transitions.",
+          "client": "Pitlane Vadakara",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Whip Pans"
+          ]
+        },
+        {
+          "id": "fastcut-6",
+          "title": "Nadapuram Sneaker Hub // Retail Launch Cut",
+          "category": "FAST CUTS",
+          "thumbnail": "assets/projects/fast-cuts/thumb-6.jpg",
+          "video": "assets/projects/fast-cuts/fastcut-6.mp4",
+          "desc": "Urban streetwear store opening cut packed with jump cuts, neon flashing, and rapid beat pulses.",
+          "client": "Nadapuram Sneaker Destination",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "CapCut",
+            "Street Style"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podcast",
+      "number": "05",
+      "title": "PODCAST",
+      "subtitle": "Conversations captured. Stories crafted.",
+      "type": "video",
+      "slotCount": 4,
+      "folder": "assets/projects/podcast/",
+      "projects": [
+        {
+          "id": "podcast-1",
+          "title": "Laman Dialogue // Studio Master Episode 01",
+          "category": "PODCAST",
+          "thumbnail": "assets/projects/podcast/thumb-1.jpg",
+          "video": "assets/projects/podcast/laman-1.mov",
+          "desc": "High-retention multi-cam podcast cut with automated speaker switching, studio dialogue leveling, and pacing.",
+          "client": "Laman Media",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Audition",
+            "Multi-Cam"
+          ]
+        },
+        {
+          "id": "podcast-2",
+          "title": "Laman Dialogue // Studio Master Episode 02",
+          "category": "PODCAST",
+          "thumbnail": "assets/projects/podcast/thumb-2.jpg",
+          "video": "assets/projects/podcast/laman-2.mov",
+          "desc": "Dynamic podcast episode edit featuring punch zooms, lower-thirds motion graphics, and audio restoration.",
+          "client": "Laman Media",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Audition",
+            "Audio Mix"
+          ]
+        },
+        {
+          "id": "podcast-3",
+          "title": "Manifestra Podcast // Multi-Cam Session 01",
+          "category": "PODCAST",
+          "thumbnail": "assets/projects/podcast/thumb-3.jpg",
+          "video": "assets/projects/podcast/manifestra-1.mov",
+          "desc": "Multi-angle studio interview edit with voice isolation, chapter markers, and engagement pacing.",
+          "client": "Manifestra",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "After Effects",
+            "Color Grade"
+          ]
+        },
+        {
+          "id": "podcast-4",
+          "title": "Manifestra Podcast // Multi-Cam Session 02",
+          "category": "PODCAST",
+          "thumbnail": "assets/projects/podcast/thumb-4.jpg",
+          "video": "assets/projects/podcast/manifestra-2.mov",
+          "desc": "Full studio dialogue cut engineered for long-form retention and crisp acoustic clarity.",
+          "client": "Manifestra",
+          "year": "2024",
+          "vertical": true,
+          "tags": [
+            "Premiere Pro",
+            "Audition",
+            "Sound Design"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "short-film",
+      "number": "06",
+      "title": "SHORT FILM",
+      "subtitle": "Stories told through every frame.",
+      "type": "video",
+      "slotCount": 1,
+      "folder": "assets/projects/short-film/",
+      "projects": [
+        {
+          "id": "shortfilm-1",
+          "title": "Akale // Independent Narrative Short Film",
+          "category": "SHORT FILM",
+          "thumbnail": "assets/projects/short-film/thumb-1.jpg",
+          "video": "assets/projects/short-film/shortfilm-1.mp4",
+          "desc": "A deeply emotional narrative exploration of memory, distance, and silence. Crafted with an anamorphic cinematic palette, organic film grain, and deliberate pacing that breathes life into every unsaid emotion.",
+          "client": "Independent Film Project",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "Narrative Drama",
+            "Independent Cinema",
+            "DaVinci Resolve",
+            "Audition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "motion-graphics",
+      "number": "07",
+      "title": "MOTION GRAPHICS",
+      "subtitle": "Motion, design, and visual storytelling in motion.",
+      "type": "video",
+      "slotCount": 4,
+      "folder": "assets/projects/motion-graphics/",
+      "projects": [
+        {
+          "id": "motion-1",
+          "title": "Coffee Motion // Kinetic Commercial Animation",
+          "category": "MOTION GRAPHICS",
+          "thumbnail": "assets/projects/motion-graphics/thumb-1.jpg",
+          "video": "assets/projects/motion-graphics/motion-1.mp4",
+          "desc": "Fluid motion graphics commercial featuring particle dynamics, cup reveals, and kinetic typography.",
+          "client": "Artisan Coffee",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "After Effects",
+            "Kinetic Motion",
+            "Commercial"
+          ]
+        },
+        {
+          "id": "motion-2",
+          "title": "Logo Reveal // Minimalist 3D Motion Identity",
+          "category": "MOTION GRAPHICS",
+          "thumbnail": "assets/projects/motion-graphics/thumb-2.jpg",
+          "video": "assets/projects/motion-graphics/motion-2.mp4",
+          "desc": "High-impact logo reveal animation with slick kinetic easing, ambient glow, and sound design.",
+          "client": "Brand Motion",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "After Effects",
+            "Logo Reveal",
+            "Identity"
+          ]
+        },
+        {
+          "id": "motion-3",
+          "title": "Studify // Motion Brand Logo Sequence",
+          "category": "MOTION GRAPHICS",
+          "thumbnail": "assets/projects/motion-graphics/thumb-3.jpg",
+          "video": "assets/projects/motion-graphics/motion-3.mp4",
+          "desc": "Playful, energetic motion graphics intro for educational platform with smooth shape morphing.",
+          "client": "Studify Learning",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "After Effects",
+            "Shape Morph",
+            "Branding"
+          ]
+        },
+        {
+          "id": "motion-4",
+          "title": "Text & Shape // Kinetic Typography Sequence",
+          "category": "MOTION GRAPHICS",
+          "thumbnail": "assets/projects/motion-graphics/thumb-4.jpg",
+          "video": "assets/projects/motion-graphics/motion-4.mp4",
+          "desc": "Fast-tempo typography and abstract geometry animation built for social media hooks.",
+          "client": "Creative Studio",
+          "year": "2024",
+          "vertical": false,
+          "tags": [
+            "After Effects",
+            "Kinetic Typography",
+            "Abstract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design",
+      "number": "08",
+      "title": "GRAPHIC DESIGN",
+      "subtitle": "Visual identities and creative designs built to communicate.",
+      "type": "design",
+      "slotCount": 28,
+      "folder": "assets/projects/graphic-design/",
+      "projects": [
+        {
+          "id": "design-1",
+          "title": "Royal Dining // Restaurant Menu Front Cover & Master Layout",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/artboard-1.jpg",
+          "desc": "Complete front cover and primary menu architecture featuring gold typography, decorative filigree, and organized multi-course sections.",
+          "client": "Royal Dining Restaurant",
+          "year": "2024",
+          "aspectRatio": "2480:3507",
+          "tags": [
+            "Illustrator",
+            "Photoshop",
+            "Print Menu",
+            "Layout Design"
+          ]
+        },
+        {
+          "id": "design-2",
+          "title": "Royal Dining // Refreshments & Dessert Back Menu",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/back-menu.jpg",
+          "desc": "Beverage, fresh juices, and signature dessert menu spread designed with clear pricing columns and luxury brand motifs.",
+          "client": "Royal Dining Restaurant",
+          "year": "2024",
+          "aspectRatio": "2480:3507",
+          "tags": [
+            "Illustrator",
+            "Print Design",
+            "Menu Architecture",
+            "Beverage List"
+          ]
+        },
+        {
+          "id": "design-3",
+          "title": "Rasaar // Punjabi Multicuisine Restaurant Brand Identity",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-cover.jpg",
+          "desc": "Master brand presentation cover combining traditional Punjabi motifs, royal crown emblem, and deep crimson culinary tones.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Photoshop",
+            "Brand Identity",
+            "Logo Design"
+          ]
+        },
+        {
+          "id": "design-4",
+          "title": "Rasaar // Brand Story, Mission & Narrative Philosophy",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-brand-story.jpg",
+          "desc": "Core narrative architecture documenting the authentic culinary heritage, royal hospitality, and soul of North Indian cuisine.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Brand Strategy",
+            "Editorial Design",
+            "Storytelling"
+          ]
+        },
+        {
+          "id": "design-5",
+          "title": "Rasaar // Brand Color Palette & Visual System",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-color-palette.jpg",
+          "desc": "Sensory color palette featuring Rich Burgundy, Royal Saffron, Warm Cream, and Gold, crafted to stimulate appetite and premium feel.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Color Theory",
+            "Brand Guidelines",
+            "Visual System"
+          ]
+        },
+        {
+          "id": "design-6",
+          "title": "Rasaar // Brand Typography, Grid & Decorative Elements",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-typography.jpg",
+          "desc": "Custom typeface pairing, headline hierarchy, geometric mandalas, and traditional architectural border elements.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Typography",
+            "Vector Art",
+            "Brand Design"
+          ]
+        },
+        {
+          "id": "design-7",
+          "title": "Rasaar // Digital Ordering UI & Mobile App Experience",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-digital-menu.jpg",
+          "desc": "Mobile app interface and digital contactless menu design engineered for seamless food discovery and high-conversion ordering.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "UI/UX",
+            "Mobile App",
+            "Digital Menu"
+          ]
+        },
+        {
+          "id": "design-8",
+          "title": "Rasaar // Instagram Grid Architecture & Social Identity",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-instagram-feed.jpg",
+          "desc": "Cohesive 9-tile social media feed aesthetic combining high-contrast food photography, typography graphics, and festive promos.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Social Media",
+            "Feed Curation",
+            "Content Design"
+          ]
+        },
+        {
+          "id": "design-9",
+          "title": "Rasaar // Mobile Social Stories & Engagement Campaigns",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-story-mockup.jpg",
+          "desc": "High-retention 9:16 Instagram and Facebook story templates tailored for daily specials, customer reviews, and chef highlights.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Social Stories",
+            "Mobile Creative",
+            "Marketing"
+          ]
+        },
+        {
+          "id": "design-10",
+          "title": "Rasaar // Royal Punjabi Thali Special Promotional Poster",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-thali-post.jpg",
+          "desc": "Appetizing promotional poster spotlighting the multi-dish Punjabi Thali with authentic bronze tableware and bold typography.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Advertising",
+            "Poster Design",
+            "Food Photography"
+          ]
+        },
+        {
+          "id": "design-11",
+          "title": "Rasaar // Crispy Punjabi Samosa Social Ad Campaign",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-samosa-post.jpg",
+          "desc": "Macro food promotional poster highlighting crispy samosas with tamarind and mint chutneys, crafted for social conversion.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Social Creative",
+            "Food Advertising",
+            "Typography"
+          ]
+        },
+        {
+          "id": "design-12",
+          "title": "Rasaar // Signature Sweet Lassi Campaign Creative",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-lassi-post.jpg",
+          "desc": "Cooling traditional beverage advertising poster with clay kulhad styling, pistachio garnishes, and golden sun accents.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Poster Design",
+            "Social Creative",
+            "Beverage Ad"
+          ]
+        },
+        {
+          "id": "design-13",
+          "title": "Rasaar // Authentic Punjabi Cuisine Cultural Feature",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-cuisine-post.jpg",
+          "desc": "Cultural brand poster celebrating the clay oven tandoor tradition and rich North Indian gravy culinary arts.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Cultural Branding",
+            "Editorial Post",
+            "Art Direction"
+          ]
+        },
+        {
+          "id": "design-14",
+          "title": "Rasaar // Textured Brand Seal & Packaging Mark",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/rasaar-textured-brand.jpg",
+          "desc": "Embossed metallic gold brand emblem on textured crimson linen paper, designed for premium takeout bags and wax seals.",
+          "client": "Rasaar Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Photoshop",
+            "Packaging",
+            "Brand Seal"
+          ]
+        },
+        {
+          "id": "design-15",
+          "title": "We Desi // Rajasthani Restaurant Master Brand Identity",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-cover.jpg",
+          "desc": "Comprehensive brand identity deck cover celebrating the vibrant royal folklore, palaces, and spices of Rajasthan.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Photoshop",
+            "Brand Identity",
+            "Deck Design"
+          ]
+        },
+        {
+          "id": "design-16",
+          "title": "We Desi // Mobile App UI & Table Reservation Mockup",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-mobile-app.jpg",
+          "desc": "Sleek smartphone UI mockup featuring online table reservation, daily chef specials, and loyalty reward tracking.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "UI/UX",
+            "Mobile Mockup",
+            "App Design"
+          ]
+        },
+        {
+          "id": "design-17",
+          "title": "We Desi // Dine-In Menu Card Spread & Print Mockup",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-menu-cards.jpg",
+          "desc": "Hardcover physical menu booklet spread with embossed gold logo, rich imagery, and clear dietary allergen indicators.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Print Layout",
+            "Menu Design",
+            "Mockup"
+          ]
+        },
+        {
+          "id": "design-18",
+          "title": "We Desi // Gulabi Nagari Jaipur Heritage Campaign Poster",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-gulabi-post.jpg",
+          "desc": "Pink City cultural campaign poster merging Rajasthani architectural arches with festive celebration dining promotions.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Poster Art",
+            "Heritage Campaign",
+            "Typography"
+          ]
+        },
+        {
+          "id": "design-19",
+          "title": "We Desi // Diwali Grand Feast Social Celebration Poster",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-diwali-post.jpg",
+          "desc": "Festive social media banner featuring warm terracotta lamps, golden fireworks, and family feast banquet offerings.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Social Creative",
+            "Diwali Special",
+            "Festival Ad"
+          ]
+        },
+        {
+          "id": "design-20",
+          "title": "We Desi // Banjara Murgh Tikka Specialty Poster",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-tikka-post.jpg",
+          "desc": "High-impact culinary poster featuring charcoal-grilled chicken tikka with smokey embers, mint chutney, and rustic garnishes.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Advertising",
+            "Food Poster",
+            "Commercial"
+          ]
+        },
+        {
+          "id": "design-21",
+          "title": "We Desi // Royal Laal Maas Signature Dish Feature",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-laal-maas.jpg",
+          "desc": "Hero advertising creative for Rajasthan iconic fiery red mutton curry, highlighting Mathania chilies and royal heritage.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Poster Design",
+            "Signature Dish",
+            "Advertising"
+          ]
+        },
+        {
+          "id": "design-22",
+          "title": "We Desi // Complete Dine-In Menu Typography Layout",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-dine-menu.jpg",
+          "desc": "Detailed interior menu page layout with multi-column pricing, traditional drink pairings, and house specialty badges.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Illustrator",
+            "Typography",
+            "Editorial Layout",
+            "Print Production"
+          ]
+        },
+        {
+          "id": "design-23",
+          "title": "We Desi // Royal Jungli Maas Heritage Dish Poster",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/wedesi-jungli-maas.jpg",
+          "desc": "Historic hunter-style slow-cooked curry promotional poster with rustic copper pan presentation and artisanal typography.",
+          "client": "We Desi Restaurant",
+          "year": "2024",
+          "aspectRatio": "16:9",
+          "tags": [
+            "Photoshop",
+            "Culinary Advertising",
+            "Heritage Post",
+            "Visual Design"
+          ]
+        },
+        {
+          "id": "design-24",
+          "title": "Gourmet Flavors // Sizzling Culinary Feature 01",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/restaurant-1.jpg",
+          "desc": "Vertical mobile story creative showcasing sizzling delicacies with steam effects, warm ambient lighting, and call-to-action.",
+          "client": "Restaurant Social Campaign",
+          "year": "2024",
+          "aspectRatio": "9:16",
+          "tags": [
+            "Photoshop",
+            "Mobile Story",
+            "Food Design",
+            "9:16 Creative"
+          ]
+        },
+        {
+          "id": "design-25",
+          "title": "Gourmet Flavors // Chef Special Presentation 02",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/restaurant-2.jpg",
+          "desc": "Crisp vertical social media graphic featuring gourmet plate presentation, delicate garnishing, and restaurant branding.",
+          "client": "Restaurant Social Campaign",
+          "year": "2024",
+          "aspectRatio": "9:16",
+          "tags": [
+            "Photoshop",
+            "Social Creative",
+            "Vertical Ad",
+            "Food Styling"
+          ]
+        },
+        {
+          "id": "design-26",
+          "title": "Gourmet Flavors // Artisan Plating & Dining Ambience 03",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/restaurant-3.jpg",
+          "desc": "Fine dining culinary artwork capturing tabletop aesthetics, warm candlelight, and fresh herbs.",
+          "client": "Restaurant Social Campaign",
+          "year": "2024",
+          "aspectRatio": "4:5",
+          "tags": [
+            "Photoshop",
+            "Brand Visual",
+            "Ambience",
+            "Editorial Art"
+          ]
+        },
+        {
+          "id": "design-27",
+          "title": "Gourmet Flavors // Signature Tasting Menu Feature 04",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/restaurant.jpg",
+          "desc": "Richly textured culinary composition highlighting seasonal specialty ingredients and gastronomic excellence.",
+          "client": "Restaurant Social Campaign",
+          "year": "2024",
+          "aspectRatio": "4:5",
+          "tags": [
+            "Photoshop",
+            "Advertising Design",
+            "Culinary Art",
+            "Menu Feature"
+          ]
+        },
+        {
+          "id": "design-28",
+          "title": "Restaurant Promo // Weekend Special Offer Social Story",
+          "category": "GRAPHIC DESIGN",
+          "image": "assets/projects/graphic-design/story-4.jpg",
+          "desc": "High-converting 9:16 vertical Instagram story with bold typography, promo discount badge, and swipe-up reservation prompt.",
+          "client": "Restaurant Social Campaign",
+          "year": "2024",
+          "aspectRatio": "9:16",
+          "tags": [
+            "Photoshop",
+            "Instagram Story",
+            "Promo Poster",
+            "9:16 Vertical"
+          ]
+        }
+      ]
+    }
+  ]
+}
