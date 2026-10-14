@@ -12,7 +12,7 @@
         "category": "PODCAST",
         "title": "Laman Dialogue // Studio Master Episode 01",
         "img": "assets/projects/podcast/thumb-1.jpg",
-        "video": "assets/projects/podcast/laman-1.mov",
+        "video": "assets/projects/podcast/laman-1.mp4",
         "desc": "High-retention multi-cam podcast cut with automated speaker switching, studio dialogue leveling, and pacing.",
         "client": "Laman Media",
         "year": "2024",
@@ -27,7 +27,7 @@
         "category": "PODCAST",
         "title": "Laman Dialogue // Studio Master Episode 02",
         "img": "assets/projects/podcast/thumb-2.jpg",
-        "video": "assets/projects/podcast/laman-2.mov",
+        "video": "assets/projects/podcast/laman-2.mp4",
         "desc": "Dynamic podcast episode edit featuring punch zooms, lower-thirds motion graphics, and audio restoration.",
         "client": "Laman Media",
         "year": "2024",
@@ -42,7 +42,7 @@
         "category": "PODCAST",
         "title": "Manifestra Podcast // Multi-Cam Session 01",
         "img": "assets/projects/podcast/thumb-3.jpg",
-        "video": "assets/projects/podcast/manifestra-1.mov",
+        "video": "assets/projects/podcast/manifestra-1.mp4",
         "desc": "Multi-angle studio interview edit with voice isolation, chapter markers, and engagement pacing.",
         "client": "Manifestra",
         "year": "2024",
@@ -57,7 +57,7 @@
         "category": "PODCAST",
         "title": "Manifestra Podcast // Multi-Cam Session 02",
         "img": "assets/projects/podcast/thumb-4.jpg",
-        "video": "assets/projects/podcast/manifestra-2.mov",
+        "video": "assets/projects/podcast/manifestra-2.mp4",
         "desc": "Full studio dialogue cut engineered for long-form retention and crisp acoustic clarity.",
         "client": "Manifestra",
         "year": "2024",
@@ -147,7 +147,7 @@
         "category": "REELS & SHORTS",
         "title": "Sunny // Lifestyle Portrait Short",
         "img": "assets/projects/reels-shorts/thumb-6.jpg",
-        "video": "assets/projects/reels-shorts/reel-6.mov",
+        "video": "assets/projects/reels-shorts/reel-6.mp4",
         "desc": "Vibrant outdoor lifestyle reel with golden sunlight color grade and modern beat timing.",
         "client": "Personal Brand",
         "year": "2024",
@@ -162,7 +162,7 @@
         "category": "REELS & SHORTS",
         "title": "TBC // Commercial Teaser Short",
         "img": "assets/projects/reels-shorts/thumb-7.jpg",
-        "video": "assets/projects/reels-shorts/reel-7.mov",
+        "video": "assets/projects/reels-shorts/reel-7.mp4",
         "desc": "Brand awareness vertical short with punchy typographic cues, sound impact, and sleek framing.",
         "client": "TBC Studio",
         "year": "2024",
@@ -252,7 +252,7 @@
         "category": "CINEMATIC",
         "title": "Payyoli // Culinary Visual Story",
         "img": "assets/projects/cinematic/thumb-5.jpg",
-        "video": "assets/projects/cinematic/cinematic-5.m4v",
+        "video": "assets/projects/cinematic/cinematic-5.mp4",
         "desc": "Cinematic food cinematography film with sizzling audio foley, macro spice details, and warm grading.",
         "client": "Payyoli Culinary",
         "year": "2024",
@@ -282,7 +282,7 @@
         "category": "WEDDING",
         "title": "Taj Makkaraparamb // Royal Celebration Film",
         "img": "assets/projects/wedding/thumb-2.jpg",
-        "video": "assets/projects/wedding/wedding-2.mov",
+        "video": "assets/projects/wedding/wedding-2.mp4",
         "desc": "Grand celebration film featuring majestic ballroom lighting, drone aerial sweeps, and orchestral music.",
         "client": "Taj Makkaraparamb",
         "year": "2024",
@@ -1002,9 +1002,25 @@
     }
 
     if (data.video && videoEl) {
-      videoEl.src = data.video;
-      videoEl.muted = false;
+      // Set poster thumbnail immediately so video never shows an empty black box while buffering
+      const posterUrl = data.img || data.thumbnail || '';
+      if (posterUrl) {
+        videoEl.poster = posterUrl;
+      }
+      videoEl.controls = true;
+      videoEl.preload = 'auto';
       videoEl.classList.remove('hidden');
+
+      // Error handler fallback
+      videoEl.onerror = function () {
+        console.warn('Video playback encountered an error for:', data.video, videoEl.error);
+        if (imgEl && posterUrl) {
+          imgEl.src = posterUrl;
+          imgEl.classList.remove('hidden');
+        }
+        videoEl.classList.add('hidden');
+      };
+
       videoEl.onloadedmetadata = function () {
         if (videoEl.videoWidth && videoEl.videoHeight) {
           if (videoEl.videoWidth < videoEl.videoHeight) {
@@ -1016,15 +1032,28 @@
           }
         }
       };
-      videoEl.play().catch(() => {
-        // Fallback for browsers requiring user gesture before unmuted audio
-        videoEl.muted = true;
-        videoEl.play().catch(() => {});
-      });
+
+      // Load and play
+      videoEl.pause();
+      videoEl.src = data.video;
+      videoEl.load();
+      videoEl.currentTime = 0;
+      videoEl.muted = false;
+
+      const playPromise = videoEl.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {
+          // Fallback if browser policies restrict unmuted autoplay
+          videoEl.muted = true;
+          videoEl.play().catch(() => {});
+        });
+      }
+
       if (imgEl) imgEl.classList.add('hidden');
     } else {
       if (videoEl) {
         videoEl.pause();
+        videoEl.removeAttribute('src');
         videoEl.classList.add('hidden');
       }
       if (imgEl) {
@@ -1043,7 +1072,10 @@
       const videoEl = document.getElementById('modal-proj-video');
       if (videoEl) {
         videoEl.pause();
-        videoEl.src = '';
+        videoEl.onerror = null;
+        videoEl.onloadedmetadata = null;
+        videoEl.removeAttribute('src');
+        videoEl.load();
       }
       const modalBox = modal.querySelector('.onefor-modal-box');
       if (modalBox) {
